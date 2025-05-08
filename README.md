@@ -1,5 +1,3 @@
-# Telecom_prediction-churn
-
 # Telecom Customer Churn Prediction System
 ## Overview
 The Telecom Customer Churn Prediction System is an advanced application designed to predict customer churn and provide actionable recommendations to help telecom companies retain their customers. The system utilizes a trained machine learning model and provides a user-friendly interface for inputting customer data, generating predictions, and visualizing results.
