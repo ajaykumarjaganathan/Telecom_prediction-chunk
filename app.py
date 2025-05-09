@@ -3,6 +3,8 @@ import pandas as pd
 import joblib
 import plotly.express as px
 import statsmodels.api as sm
+from pages.Model_Performance_Evaluation import show_evaluation
+
 
 # Load the trained model
 model = joblib.load('xgb_model.pkl')
